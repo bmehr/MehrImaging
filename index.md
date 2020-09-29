@@ -46,7 +46,7 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer id="reveal" loading="eager" src="Models/SIF_Table_BBY_09_02_20.glb" ar ar-modes="quick-look webxr scene-viewer" ios-src="SIF_Table_BBY_09_02_20.usdz" alt="A 3D model of The SIF Display" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> 
+<model-viewer id="reveal" loading="eager" src="Models/SIF_Table_BBY_09_02_20.glb" ar ar-modes="quick-look webxr scene-viewer" ios-src="SIF_Table_BBY_09_02_21.usdz" alt="A 3D model of The SIF Display" auto-rotate="" auto-rotate-delay="0" ar-scale="auto" camera-controls="" style="width: 95%; height: 500px" exposure="0.5"> 
 </model-viewer>
 
 <!-- Loads <model-viewer> for modern browsers: -->
